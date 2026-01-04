@@ -6,8 +6,11 @@
 - Fac parte din Universul Babei Mister (eg. **Duminica**)
 - Sunt un colectionar desavarsit de ceaiuri
 - Sunt vedeta Aurorei
-- sunt **butyfull**
+- Sunt **butyfull**
+- Sunt un vampir
+- Imi place mecu'l
+- O stiu PE ****BABA MISTER****
 
 ## Contra
 - Sunt insistent
-- Fac bilute de c****
+ Doar atat am avut chef sa scriu
