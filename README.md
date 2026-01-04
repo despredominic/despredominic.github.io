@@ -1,4 +1,5 @@
 # Eu sunt Dominic
+![alt text](eu.jpg "Title")
 
 ## Pro
 - Sunt prietenos
@@ -13,4 +14,5 @@
 
 ## Contra
 - Sunt insistent
- Doar atat am avut chef sa scriu
+
+ Doar atat am avut chef sa scriu dar este mai mult
